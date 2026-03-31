@@ -6,7 +6,8 @@ This project analyzes employee attrition using the IBM HR Analytics dataset. The
 The aim of this project is to identify the key drivers of employee attrition and deliver actionable retention recommendations to the Chief Human Resource Officer and Human Resource Business Partners.
 
 # Data Source
-The data used for this work is gotten from DahelTechies Internship Program.
+The data used for this work is gotten from Kaggle- 
+<https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset>
 
 # Tools Used
 Excel (Power Query, Formulas, PivotTables)
