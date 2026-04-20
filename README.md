@@ -44,14 +44,14 @@ I moved the excel file to Tableau where I created 12 worksheets and 3 dashboards
 - Attrition rate overview
 - Attrition by department, age band and job role
 
-<img width="1622" height="825" alt="image" src="https://github.com/user-attachments/assets/22b4eb1f-3d12-48a2-a4ad-cdf61786acd7" />
+<img width="1618" height="860" alt="image" src="https://github.com/user-attachments/assets/69b02d86-5bac-4872-b149-db2d7c7ebbf5" />
 
 2. Compensation & Performance
 - Salary distribution
 - Gender pay comparison
 - Compensation vs attrition analysis
 
-<img width="1642" height="827" alt="image" src="https://github.com/user-attachments/assets/741d6654-3601-4cd8-83f3-454362fa712b" />
+<img width="1633" height="852" alt="image" src="https://github.com/user-attachments/assets/0d59f9fb-fb8c-4ac7-ac59-ff5fb31fd558" />
 
 3. Attrition Risk Intelligence
 - Risk category segmentation
@@ -59,7 +59,7 @@ I moved the excel file to Tableau where I created 12 worksheets and 3 dashboards
 - Satisfaction heatmap
 - High-risk employee identification
 
-<img width="1522" height="838" alt="image" src="https://github.com/user-attachments/assets/f51122aa-fdf9-4a4a-9b9c-a5784bb39624" />
+<img width="1521" height="882" alt="image" src="https://github.com/user-attachments/assets/abe8c285-5f83-49e0-bb4f-5390ad6d8e62" />
 
 # Key Insights
 - Sales and HR typically show higher attrition rates than R&D which indicates role pressure, targets, or job instability. 
