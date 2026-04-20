@@ -65,13 +65,14 @@ I moved the excel file to Tableau where I created 12 worksheets and 3 dashboards
 - Sales and HR typically show higher attrition rates than R&D which indicates role pressure, targets, or job instability. 
 - Employees in 0–2 years tenure band show the highest attrition. This means that there is onboarding or expectation mismatch. 
 - While employees working overtime have significantly higher attrition rates, employees with low Job Satisfaction and Work Life Balance leave more and employees with low Compensation Ratio (<1) show higher attrition.
-- High-risk category aligns strongly with actual attrition. 
+- High-risk category aligns strongly with actual attrition.
+- Employees with long periods since last promotion are more likely to leave. 
 
 # Business Recommendations
 - Retention strategies should be focused on high-turnover departments.
 - There is need to improve onboarding, mentorship, and early engagement programs and monitor workload
 - Flexible work policies should be introduced to reduce burnout risk and work-life balance policies should be improved.
-- Conduct employee surveys and act on feedback.
+- Employee surveys should be conducted and feedbacks should be acted on. 
 - Compensation structures should be adjusted. This could be done through benchmarking salaries against market rates.
 - There is need to create clearer career progression paths and increase internal mobility opportunities 
 - Pay equity should be ensured and regular compensation audits conducted.
@@ -83,6 +84,10 @@ This project demonstrates end-to-end data analysis:
 - Exploratory data analysis
 - KPI development
 - Dashboard design and storytelling
+
+# Conclusion
+- This project highlights how HR data can be leveraged to understand employee behavior and reduce attrition.
+- By identifying key drivers of turnover, organizations can implement targeted strategies to improve employee retention and overall productivity.
 
 # Notes
 This project is part of a data analytics portfolio demonstrating HR analytics and business intelligence skills.
